@@ -1,0 +1,16 @@
+{
+    "name": "Personal Website",
+    "version": "1.0.0",
+    "author" : "Caijun Qin",
+    "license": "ISC",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "engines": {
+        "node": ">=15.7.0",
+        "npm": ">=7.4.3"
+    }
+}
